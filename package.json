@@ -1,0 +1,14 @@
+{
+  "name": "normalize-quran",
+  "version": "1.0.0",
+  "description": "convert quran text to searchable database",
+  "main": "index.js",
+  "bin": {
+    "norq": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramy Eldesoky",
+  "license": "ISC"
+}
